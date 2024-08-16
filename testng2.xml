@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/user/intelij Workspace/RestAssured/src/test/java/practicePackage">
+        <classes>
+            <class name="practicePackage.ExampleTest">
+                <methods>
+                    <include name="getRequest"/>
+                </methods>
+            </class>
+            <class name="practicePackage.NonBdd">
+                <methods>
+                    <include name="getrequest"/>
+                    <include name="InvalidGetrequest"/>
+                </methods>
+            </class>
+            <class name="practicePackage.Test1">
+                <methods>
+                    <include name="m2"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

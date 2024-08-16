@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="">
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/user/intelij Workspace/RestAssured/src/test/java/WebAutomation/dummy.java">
+        <classes>
+            <class name="WebAutomation.GetToNavigate"/>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,1 @@
+{"uuid":"5b4921cb-810d-4f0d-ab10-2749f56c26d2","name":"Rest_Assured.Test1","children":["ec8fe60c-f0ba-4249-9c46-93b1b679a3f9"],"befores":[{"name":"GetAll","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1719369517996,"stop":1719369520750}],"afters":[],"start":1719369517968,"stop":1719369520837}

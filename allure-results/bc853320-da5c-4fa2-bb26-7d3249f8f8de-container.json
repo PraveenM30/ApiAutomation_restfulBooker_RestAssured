@@ -1,0 +1,1 @@
+{"uuid":"bc853320-da5c-4fa2-bb26-7d3249f8f8de","name":"RestAssured","children":[],"befores":[{"name":"tokenNONBDD","status":"passed","stage":"finished","description":"Token is generated in BDD style!! ","steps":[],"attachments":[],"parameters":[],"start":1720147393052,"stop":1720147399204}],"afters":[],"start":1720147393010,"stop":1720147399222}
